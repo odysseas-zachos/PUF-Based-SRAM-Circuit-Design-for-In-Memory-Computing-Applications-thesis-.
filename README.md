@@ -76,5 +76,5 @@ Evaluation across **6,300 Monte Carlo simulation runs** per corner in Cadence Vi
 ---
 
 ## 📂 Publications & Documentation
-* 📜 **Full Thesis Document:** Available officially on the [University of Patras Nemertes Repository]([https://nemertes.library.upatras.gr](https://nemertes.library.upatras.gr/items/33239f5f-763d-4461-9c4c-8cba7e36190b).
+* 📜 **Full Thesis Document:** Available officially on the [University of Patras Nemertes Repository](https://nemertes.library.upatras.gr/items/33239f5f-763d-4461-9c4c-8cba7e36190b).
 * 📊 **Slide Deck:** Access the presentation slides directly via [Thesis Presentation PDF](PROJECT_PRESENTATION.pdf).
