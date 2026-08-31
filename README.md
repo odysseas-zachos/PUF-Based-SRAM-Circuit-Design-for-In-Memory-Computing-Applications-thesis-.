@@ -48,7 +48,6 @@ at the same time retaining the ability to support in-memory computing operations
 * **Zero-Storage Cryptographic Security:** Traditional hardware keys stored in EEPROM/Flash are vulnerable to side-channel and physical reverse-engineering attacks. This design generates cryptographic keys **dynamically from silicon device mismatch**, leaving no permanent key trace in memory.
 * **Dual-Functional 8T Substrate:** Operates as high-density RAM for memory/IMC tasks and transforms into a security primitive on-demand, maximizing area efficiency for edge-AI and IoT SoCs.
 * **Disturb-Free Read Architecture:** Capitalizes on the 8T cell's isolated read path (separate read transistor decoupling the internal storage nodes) to eliminate read-disturb vulnerabilities during high-frequency PUF evaluations.
-* **Ultra-Low Overhead Comparison:** Implements column-shared voltage differential comparators to digitize subtle discharge rate mismatches on Bitlines (`RBL`), minimizing active area and power consumption.
 * **Comprehensive PVT Robustness:** Rigorously proven to maintain output integrity under severe supply voltage fluctuations and wide thermal gradients (process, voltage, temperature corner sweeps).
 
 ---
