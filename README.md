@@ -3,7 +3,7 @@
 
 > **Author:** Odysseas Zachos  
 > **Degree:** B.Sc. / M.Eng. Thesis, Department of Computer Engineering and Informatics (CEID), University of Patras  
-> **Official Repository Link:** [Read Published Thesis on Nemertes](https://nemertes.library.upatras.gr/)  
+> **Official Repository Link:** [Read Published Thesis on Nemertes](https://nemertes.library.upatras.gr/items/33239f5f-763d-4461-9c4c-8cba7e36190b)  
 > **Presentation Deck:** [Project Presentation (PDF)](PROJECT_PRESENTATION.pdf)
 
 ---
