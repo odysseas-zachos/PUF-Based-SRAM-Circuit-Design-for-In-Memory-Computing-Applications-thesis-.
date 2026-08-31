@@ -75,18 +75,6 @@ Evaluation across **6,300 Monte Carlo simulation runs** per corner in Cadence Vi
 
 ---
 
-## 🏗️ Architecture & Mechanism Overview
-1. **8T Storage Cell Array:** Dual-port configuration separating write nodes from read evaluation paths.
-2. **Precharge & Timing Logic:** Pre-charges `RBL` nodes before challenge-response evaluation cycles.
-3. **Differential Sensing Unit:** High-gain voltage comparator sensing threshold voltage ($V_{th}$) mismatch between differential discharge paths.
-
----
-
 ## 📂 Publications & Documentation
-* 📜 **Full Thesis Document:** Available officially on the [University of Patras Nemertes Repository](https://nemertes.library.upatras.gr/).
-* 📊 **Slide Deck:** Access the presentation slides directly via [Thesis Presentation PDF](docs/presentation.pdf).
-
----
-
-## 📬 Contact & Portfolio
-Designed and developed by **Odysseas Zachos**. Feel free to connect for discussions on Hardware Security, VLSI Design, or Software Engineering opportunities.
+* 📜 **Full Thesis Document:** Available officially on the [University of Patras Nemertes Repository]([https://nemertes.library.upatras.gr](https://nemertes.library.upatras.gr/items/33239f5f-763d-4461-9c4c-8cba7e36190b).
+* 📊 **Slide Deck:** Access the presentation slides directly via [Thesis Presentation PDF](PROJECT_PRESENTATION.pdf).
