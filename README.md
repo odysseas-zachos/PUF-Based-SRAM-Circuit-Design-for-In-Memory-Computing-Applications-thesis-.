@@ -1,12 +1,12 @@
 # PUF-Based 8T SRAM Circuit Design for In-Memory Computing Applications
 
-[![Thesis](https://img.shields.io/badge/Nemertes-Institutional%20Repository-005596.svg)](https://nemertes.library.upatras.gr/)
-[![Presentation](https://img.shields.io/badge/Slides-Presentation%20PDF-red.svg)](docs/presentation.pdf)
+[![Thesis](https://img.shields.io/badge/Nemertes-Institutional%20Repository-005596.svg)]([https://nemertes.library.upatras.gr/](https://nemertes.library.upatras.gr/items/33239f5f-763d-4461-9c4c-8cba7e36190b)
+[![Presentation](https://img.shields.io/badge/Slides-Presentation%20PDF-red.svg)](PROJECT_PRESENTATION.pdf)
 
 > **Author:** Odysseas Zachos  
 > **Degree:** B.Sc. / M.Eng. Thesis, Department of Computer Engineering and Informatics (CEID), University of Patras  
 > **Official Repository Link:** [Read Published Thesis on Nemertes](https://nemertes.library.upatras.gr/)  
-> **Presentation Deck:** [Download Presentation (PDF)](docs/presentation.pdf)
+> **Presentation Deck:** [Project Presentation (PDF)](PROJECT_PRESENTATION.pdf)
 
 ---
 
